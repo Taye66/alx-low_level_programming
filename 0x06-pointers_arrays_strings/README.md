@@ -1,1 +1,1 @@
-#This Directory is for practice more Pointers, Arrays and String in c language
+#This is a project for more pointers, arrays and strings
